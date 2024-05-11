@@ -7,7 +7,7 @@
 - チーズアカデミーのLP
 
 ## ③DEMO
-- https://drive.google.com/file/d/1VzJJl_aqLN7hlc1A606tjMPVEGOZVNmR/view?usp=drive_link
+- https://hokulani822.github.io/cheese-academy/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
